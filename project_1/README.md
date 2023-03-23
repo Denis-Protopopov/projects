@@ -13,4 +13,5 @@
 
 4) Проверить несколько гипотез
 
-Использованные библиотеки: pandas, numpy, matplotlib.pyplot, scipy, seaborn.
+##Использованные библиотеки:
+pandas, numpy, matplotlib.pyplot, scipy, seaborn.
