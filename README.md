@@ -1,4 +1,4 @@
-# projects
+# Описание проектов в README.md
 
 ## project_1:
 
